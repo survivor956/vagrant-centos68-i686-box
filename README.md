@@ -13,6 +13,7 @@ Box specifications:
 - Provider: VirtualBox
 - URL: https://www.dropbox.com/s/vq9ltfnagtaney4/centos68-i686-20160608.box
 - Users:  'vagrant' with password 'vagrant' & 'root' with password 'vagrant'
+- Size: 323.9 MB
 
 Usage:
 ======
