@@ -11,7 +11,7 @@ Box specifications:
 - Architecture: i686 (32 bit)
 - Packages: mimimal + nano + wget + yum update 'Wednesday, 8 June 2016'
 - Provider: VirtualBox
-- URL: https://www.dropbox.com/s/vq9ltfnagtaney4/centos68-i686-20160608.box?dl=0
+- URL: https://www.dropbox.com/s/vq9ltfnagtaney4/centos68-i686-20160608.box
 - Users:  'vagrant' with password 'vagrant' & 'root' with password 'vagrant'
 
 Usage:
