@@ -12,9 +12,7 @@ Box specifications:
 - Packages: mimimal + nano + wget + yum update 'Wednesday, 8 June 2016'
 - Provider: VirtualBox
 - URL: https://www.dropbox.com/s/vq9ltfnagtaney4/centos68-i686-20160608.box?dl=0
-- Users: 
-         * 'vagrant' with password 'vagrant'
-         * 'root' with password 'vagrant'
+- Users:  'vagrant' with password 'vagrant' & 'root' with password 'vagrant'
 
 Usage:
 ======
