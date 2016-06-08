@@ -18,7 +18,7 @@ Box specifications:
 Usage:
 ======
 
-1. Get the Vagrantfile
+1. Get the Vagrantfile or clone the project
 2. cd to the directory containing the Vagrantfile
 3. run `vagrant up`
 
