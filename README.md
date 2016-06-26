@@ -11,6 +11,7 @@ Box specifications:
 - Architecture: i686 (32 bit)
 - Packages: mimimal + nano + wget + yum update 'Wednesday, 8 June 2016'
 - Provider: VirtualBox
+- Installed version 4.3.14 of VirtualBox Guest Additions
 - URL: https://www.dropbox.com/s/vq9ltfnagtaney4/centos68-i686-20160608.box
 - Users:  'vagrant' with password 'vagrant' & 'root' with password 'vagrant'
 - Size: 323.9 MB
